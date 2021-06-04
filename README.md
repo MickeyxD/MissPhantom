@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7e61fe06a9c02747249c4.jpg">
+  <img src="https://telegra.ph/file/66aa807d148a9bdadf260.jpg">
 </p>
 
-# YoneRobot
-Me On Telegram [✨Yone✨](https://t.me/YoneRobot)
+# 𝙈𝙄𝙎𝙎 𝙆𝙍𝙄𝙎𝙏𝙄𝙉𝘼
+Me On Telegram [✨𝙈𝙄𝙎𝙎 𝙆𝙍𝙄𝙎𝙏𝙄𝙉𝘼✨](https://t.me/MISS_KRISTINA_BOT)
 
 ## How To Host
 The easiest way to deploy this Bot
@@ -26,8 +26,8 @@ CREDITS
 ❤️ MashaRobot = Dark Prince 
 ❤️ DaisyX = Inuka
 ❤️ TheHamkerCat = WBB
+❤️YoneRobot = Kittu
 
-This Bot Is Created By @A_Viyu ! if your kanging this without fork at least give a credit to get a smile of my hard work.
 
 
 
