@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʟʟᴏ [🤗](https://telegra.ph/file/66aa807d148a9bdadf260.jpg), ɪᴍ ᴋʀɪsᴛɪɴᴀ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
+ʜᴇʟʟᴏ [🤗](https://telegra.ph/file/47ab7aa054a25224cbac8.jpg), ɪᴍ ᴋʀɪsᴛɪɴᴀ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help   
 """
 
@@ -96,10 +96,10 @@ buttons = [
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` [ᴋʀɪsᴛɪɴᴀ🙋‍♀️](https://telegra.ph/file/66aa807d148a9bdadf260.jpg) 
+`ʜɪ.. ɪ'ᴍ` [ᴋʀɪsᴛɪɴᴀ🙋‍♀️](https://telegra.ph/file/47ab7aa054a25224cbac8.jpg) 
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
-yone_IMG = "https://telegra.ph/file/66aa807d148a9bdadf260.jpg"
+yone_IMG = "https://telegra.ph/file/47ab7aa054a25224cbac8.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @DIPESH_XD \
