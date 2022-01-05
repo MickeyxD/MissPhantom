@@ -3,10 +3,10 @@
 </p>
 <p align="center">
     <a href="https://app.codacy.com/manual/MickeyxD/MissPhantom/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/xdipesh/MissPhantom"> <img src="https://img.shields.io/github/repo-size/MickeyxD/MissPhantom?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/MicmeyxD/MissPhantom"> <img src="https://img.shields.io/github/repo-size/MickeyxD/MissPhantom?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/MickeyxD/MissPhantom/commits/prince"> <img src="https://img.shields.io/github/last-commit/MickeyxD/MissPhantom?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/MickeyxD/MissPhantom/issues"> <img src="https://img.shields.io/github/issues/MickeyxD/MissPhantomSupport?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/xdipesh/MissKristina/network/members"> <img src="https://img.shields.io/github/forks/MickeyxD/MissPhantom?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/MickeyxD/MissKristina/network/members"> <img src="https://img.shields.io/github/forks/MickeyxD/MissPhantom?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -14,7 +14,7 @@
   <img src="https://telegra.ph/file/4c59aa8a2e7a508afd8eb.jpg">
 </p>
 
-# 𝙈𝙄𝙎𝙎 𝙆𝙍𝙄𝙎𝙏𝙄𝙉𝘼
+# MISS PHANTOM DEPLOY🔥
 Me On Telegram [✨MISS PHANTOM✨](https://t.me/MISSPHANTOM_BOT)
 
 ## How To Host
